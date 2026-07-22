@@ -1,0 +1,11 @@
+ID,Name,Department,Age,Monthly_Salary,Years_of_Experience,Bonus
+101,Rahul,IT,25.0,45000.0,2,4500.0
+102,Priya,HR,28.0,38000.0,3,3800.0
+103,Amit,Finance,30.0,52000.0,5,5200.0
+104,Sneha,IT,28.6,48000.0,4,4800.0
+105,Rohan,Marketing,29.0,47700.0,3,4770.0
+106,Pooja,HR,26.0,39000.0,2,3900.0
+107,Karan,Finance,32.0,55000.0,6,5500.0
+108,Neha,Marketing,24.0,43000.0,1,4300.0
+109,Ajay,IT,31.0,60000.0,7,6000.0
+110,Anjali,HR,29.0,42000.0,4,4200.0
