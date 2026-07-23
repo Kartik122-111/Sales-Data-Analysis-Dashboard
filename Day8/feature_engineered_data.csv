@@ -1,0 +1,11 @@
+ID,Name,Department,Age,Salary,Experience,Bonus,Total_Income,Department_Label,Dept_Finance,Dept_HR,Dept_IT,Dept_Marketing,Salary_Scaled
+101,Rahul,IT,25,45000,2,4500.0,49500.0,2,False,False,True,False,0.31818181818181834
+102,Priya,HR,28,38000,3,3800.0,41800.0,1,False,True,False,False,0.0
+103,Amit,Finance,30,52000,5,5200.0,57200.0,0,True,False,False,False,0.6363636363636362
+104,Sneha,IT,27,48000,4,4800.0,52800.0,2,False,False,True,False,0.4545454545454546
+105,Rohan,Marketing,29,41000,3,4100.0,45100.0,3,False,False,False,True,0.13636363636363646
+106,Pooja,HR,26,39000,2,3900.0,42900.0,1,False,True,False,False,0.045454545454545636
+107,Karan,Finance,32,55000,6,5500.0,60500.0,0,True,False,False,False,0.7727272727272729
+108,Neha,Marketing,24,43000,1,4300.0,47300.0,3,False,False,False,True,0.2272727272727273
+109,Ajay,IT,31,60000,7,6000.0,66000.0,2,False,False,True,False,1.0
+110,Anjali,HR,29,42000,4,4200.0,46200.0,1,False,True,False,False,0.18181818181818188
